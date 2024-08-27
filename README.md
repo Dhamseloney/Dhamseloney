@@ -14,7 +14,7 @@ Here are some of my recent projects that I'm proud of:
 
 1. **R Scientific Graphing Calculator**
    - Generate graphs from equations
-   - https://flowzpine.shinyapps.io/deploy/
+   - https://shinyapps.io/deploy/
 
 
 Feel free to explore these projects to get a sense of my coding style and the kind of work I'm passionate about.
