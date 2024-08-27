@@ -29,7 +29,7 @@ If you share similar interests, have a project in mind, or just want to chat, fe
 
 - [LinkedIn](Your LinkedIn Profile URL) 🔗
 - [Twitter](Your Twitter Profile URL) 🐦
-- [Email](Your Email Address) 📧
+- [Email](flowzpine@gmail.com) 📧
 
 Let's collaborate and build amazing things together!
 
